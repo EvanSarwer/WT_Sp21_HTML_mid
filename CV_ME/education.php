@@ -7,27 +7,27 @@
 		
 		<span style="padding-left: 40px"> </span>
 		<img src="AboutMe_Logo.jpg" height="19px" width="19px">
-	    <a href="my_cv.html" style="padding-left: 10px;color: #fffa0; font-size: 1.5em">About Me</a>
+	    <a href="my_cv.php" style="padding-left: 10px;color: #fffa0; font-size: 1.5em">About Me</a>
 		
 		<span style="padding-left: 40px"> </span>
 		<img src="Education_Logo.png" height="19px" width="19px">
-	    <a href="education.html" style="padding-left: 10px;color: #fffa0; font-size: 1.5em">Education</a>
+	    <a href="education.php" style="padding-left: 10px;color: #fffa0; font-size: 1.5em">Education</a>
 		
 		<span style="padding-left: 40px"> </span>
 		<img src="FamilyDetails_Logo.png" height="19px" width="19px">
-	    <a href="family_details.html" style="padding-left: 10px;color: #fffa0; font-size: 1.5em">Family Details</a>
+	    <a href="family_details.php" style="padding-left: 10px;color: #fffa0; font-size: 1.5em">Family Details</a>
 		
 		<span style="padding-left: 40px"> </span>
 		<img src="Achievements_Logo.jpg" height="19px" width="19px">
-	    <a href="achievements.html" style="padding-left: 10px;color: #fffa0; font-size: 1.5em">Achievements</a>
+	    <a href="achievements.php" style="padding-left: 10px;color: #fffa0; font-size: 1.5em">Achievements</a>
 		
 		<span style="padding-left: 40px"> </span>
 		<img src="Experience_Logo.png" height="19px" width="19px">
-	    <a href="experience.html" style="padding-left: 10px;color: #fffa0; font-size: 1.5em">Experience</a>
+	    <a href="experience.php" style="padding-left: 10px;color: #fffa0; font-size: 1.5em">Experience</a>
 		
 		<span style="padding-left: 40px"> </span>
 		<img src="Reference_Logo.png" height="19px" width="19px">
-	    <a href="reference.html" style="padding-left: 10px;color: #fffa0; font-size: 1.5em">Reference</a>
+	    <a href="reference.php" style="padding-left: 10px;color: #fffa0; font-size: 1.5em">Reference</a>
 		
 		
 		<p><br></p>
