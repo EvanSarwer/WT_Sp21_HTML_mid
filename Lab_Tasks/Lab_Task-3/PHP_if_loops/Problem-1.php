@@ -7,9 +7,9 @@
 		?> 
 			
 			<span>The memory of that scenefor me is like a frame of film forever frozen at <br>
-			that moment: the <span style="color:<?php echo $color[2] ?>">red</span> carpet, the <span style="color:<?php echo $color[1] ?>">green</span> lawn,
-			the <span style="color:<?php echo $color[0] ?>">white</span> house, the leaden sky. <br>
-			The new president and his first lady. 
+			that moment: the <?php echo $color[2] ?> carpet, the <?php echo $color[1] ?> lawn,
+			the <?php echo $color[0] ?> house, the leaden sky. <br>
+			The new president and his first lady. <br>
 			- Richard M. Nixon </span>
 	
         
