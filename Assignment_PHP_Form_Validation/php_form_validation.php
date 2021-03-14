@@ -167,7 +167,7 @@
 		?>
 	    <fieldset style="width:650px;border:solid 2px" >
 			<legend> <h1>Club Member Registration</h1></legend>
-			<form action="" method="post">
+			<form action="submit.php" method="post">
 				<table style="margin-left:5px">
 				    <tr>
 						<td align="right"><span>Name </span></td>
